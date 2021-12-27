@@ -8,14 +8,13 @@ module.exports = {
         .setColor('0xfd700')
 		.addFields(
 			{
-				
 				name: 'Field 1',
-                value: 'Value 1',
+                		value: 'Value 1',
 				inline: false
 			  },
 			  {
 				name: 'Field 2',
-                value: 'Value 2',
+                		value: 'Value 2',
 				inline: true
 			  }
 		)

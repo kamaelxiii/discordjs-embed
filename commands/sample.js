@@ -1,6 +1,6 @@
 module.exports = {
-	name: 'help',
-	description: 'Help Helper',
+	name: 'sample',
+	description: 'Sample Helper',
 	execute(message, args, base, txtEmbed, fetch, Discord) {
 		const re = new Discord.MessageEmbed()
         .setTitle('Sample Embed')
